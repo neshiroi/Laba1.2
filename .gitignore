@@ -1,0 +1,7 @@
+/dbms_cpp
+/dbms_cpp.exe
+/dbms_go
+/dbms_go.exe
+/cpp/dbms_cpp
+/go/dbms_go
+*.test
